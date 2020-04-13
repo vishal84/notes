@@ -1,3 +1,10 @@
 {
-    "python.pythonPath": "/Users/vishal/.local/share/virtualenvs/notes-Um59Z7Bm/bin/python"
+    "python.pythonPath": "/Users/vishal/.local/share/virtualenvs/notes-Um59Z7Bm/bin/python",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint-flask",
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false
 }
