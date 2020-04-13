@@ -14,6 +14,7 @@ flask-sqlalchemy = "*"
 flask-migrate = "*"
 psycopg2-binary = "*"
 pylint-flask-sqlalchemy = "*"
+mistune = "*"
 
 [requires]
 python_version = "3.7"
